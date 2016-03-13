@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CounterappsActivity!</string>
+    <string name="app_name">Counterapps</string>
+    <string name="btn">clickme</string>
+
+</resources>
